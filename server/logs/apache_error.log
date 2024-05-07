@@ -1,0 +1,57 @@
+[Fri Mar 22 15:49:32 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Mar 22 15:49:32 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 22 15:49:32 2024] [notice] Parent: Created child process 21312
+[Fri Mar 22 15:49:32 2024] [notice] Child 21312: Child process is running
+[Fri Mar 22 15:49:32 2024] [notice] Child 21312: Acquired the start mutex.
+[Fri Mar 22 15:49:32 2024] [notice] Child 21312: Starting 64 worker threads.
+[Fri Mar 22 15:49:32 2024] [notice] Child 21312: Starting thread to listen on port 80.
+[Fri Mar 22 19:17:56 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 22 19:17:56 2024] [notice] Child 21312: Exit event signaled. Child process is ending.
+[Fri Mar 22 19:17:57 2024] [notice] Child 21312: Released the start mutex
+[Fri Mar 22 19:17:58 2024] [notice] Child 21312: All worker threads have exited.
+[Fri Mar 22 19:17:58 2024] [notice] Child 21312: Child process is exiting
+[Fri Mar 22 19:17:58 2024] [notice] Parent: Child process exited successfully.
+[Fri Mar 22 19:17:59 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Mar 22 19:17:59 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 22 19:18:00 2024] [notice] Parent: Created child process 18780
+[Fri Mar 22 19:18:00 2024] [notice] Child 18780: Child process is running
+[Fri Mar 22 19:18:00 2024] [notice] Child 18780: Acquired the start mutex.
+[Fri Mar 22 19:18:00 2024] [notice] Child 18780: Starting 64 worker threads.
+[Fri Mar 22 19:18:00 2024] [notice] Child 18780: Starting thread to listen on port 80.
+[Fri Mar 22 19:40:54 2024] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 22 19:40:54 2024] [notice] Child 18780: Exit event signaled. Child process is ending.
+[Fri Mar 22 19:40:55 2024] [notice] Child 18780: Released the start mutex
+[Fri Mar 22 19:40:56 2024] [notice] Child 18780: All worker threads have exited.
+[Fri Mar 22 19:40:56 2024] [notice] Child 18780: Child process is exiting
+[Fri Mar 22 19:40:56 2024] [notice] Parent: Child process exited successfully.
+[Fri Mar 22 19:40:57 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Mar 22 19:40:57 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 22 19:40:57 2024] [notice] Parent: Created child process 12988
+[Fri Mar 22 19:40:57 2024] [notice] Child 12988: Child process is running
+[Fri Mar 22 19:40:57 2024] [notice] Child 12988: Acquired the start mutex.
+[Fri Mar 22 19:40:57 2024] [notice] Child 12988: Starting 64 worker threads.
+[Fri Mar 22 19:40:57 2024] [notice] Child 12988: Starting thread to listen on port 80.
+[Mon Mar 25 12:58:25 2024] [warn] pid file D:/projects/Final year project/Main/server/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 25 12:58:25 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Mon Mar 25 12:58:25 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Mar 25 12:58:25 2024] [notice] Parent: Created child process 17488
+[Mon Mar 25 12:58:25 2024] [notice] Child 17488: Child process is running
+[Mon Mar 25 12:58:25 2024] [notice] Child 17488: Acquired the start mutex.
+[Mon Mar 25 12:58:25 2024] [notice] Child 17488: Starting 64 worker threads.
+[Mon Mar 25 12:58:25 2024] [notice] Child 17488: Starting thread to listen on port 80.
+[Mon Mar 25 15:59:07 2024] [warn] pid file D:/projects/Final year project/Main/server/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 25 15:59:07 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Mon Mar 25 15:59:07 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Mar 25 15:59:07 2024] [notice] Parent: Created child process 17092
+[Mon Mar 25 15:59:07 2024] [notice] Child 17092: Child process is running
+[Mon Mar 25 15:59:07 2024] [notice] Child 17092: Acquired the start mutex.
+[Mon Mar 25 15:59:07 2024] [notice] Child 17092: Starting 64 worker threads.
+[Mon Mar 25 15:59:07 2024] [notice] Child 17092: Starting thread to listen on port 80.
+[Tue Mar 26 09:14:56 2024] [warn] pid file D:/projects/Final year project/Main/server/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 26 09:14:56 2024] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Mar 26 09:14:56 2024] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Mar 26 09:14:56 2024] [notice] Parent: Created child process 10024
+[Tue Mar 26 09:14:56 2024] [notice] Child 10024: Child process is running
+[Tue Mar 26 09:14:56 2024] [notice] Child 10024: Acquired the start mutex.
+[Tue Mar 26 09:14:56 2024] [notice] Child 10024: Starting 64 worker threads.
+[Tue Mar 26 09:14:56 2024] [notice] Child 10024: Starting thread to listen on port 80.
